@@ -17,7 +17,10 @@ router.route("/")
 			.catch(function(err){
 				console.log(err);
 			});
-	})
+	});
+
+
+
 
 router.route("/new")
 	.get(function(req, res){

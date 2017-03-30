@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gSchool/reddit_clone_knex#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
+    "ejs": "^2.5.6",
     "express": "^4.13.4",
     "jade": "^1.11.0",
     "knex": "^0.10.0",
